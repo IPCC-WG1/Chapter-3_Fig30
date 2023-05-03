@@ -1,5 +1,6 @@
 AR6 WG1 Chapter 3, figure 3.30: Atlantic Meridional Overturning Circulation (AMOC)
 =================================================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6780006.svg)](https://doi.org/10.5281/zenodo.6780006)
 
 Figure number: Figure 3.30
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
